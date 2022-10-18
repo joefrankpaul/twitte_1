@@ -1,0 +1,33 @@
+header > div > h1,h4{
+    margin: 3px;
+}
+
+footer > div{
+    text-align: center;
+    font-size: 35px;
+    background-color: chartreuse;
+    /* padding-left: 50%; */
+}
+div.imgtag{
+    text-align: center;
+}
+main > div >p{
+    font-style: italic;
+    font-size: 25px;
+    /* background-color: aqua; */
+}
+
+body{
+    background-color: cadetblue;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+footer{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+main > div >ul {
+    background-color: lightgreen;
+}

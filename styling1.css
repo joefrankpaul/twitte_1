@@ -1,0 +1,40 @@
+.text{
+    font-size: 25px;
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.header-img{
+    text-align: center;
+}
+header > div >h1{
+margin: 3px;
+font-style: italic;
+}
+header > div >h1, h4{
+    margin: 0%;
+}
+footer > div{
+    text-align:  center;
+    font-size: 25px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+main > div >p{
+   background-color: blue;
+   text-align: center;
+}
+main > div >ul{
+    margin: 0%;
+}

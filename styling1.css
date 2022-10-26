@@ -7,6 +7,7 @@ body{
 img{
     width: 300px;
     height: auto;
+    border-radius: 150px;
 }
 .header-img{
     text-align: center;
@@ -15,8 +16,11 @@ header > div >h1{
 margin: 3px;
 font-style: italic;
 }
-header > div >h1, h4{
-    margin: 0%;
+header >div{
+  text-align: center;  
+}
+header >div >h1{
+    font-size: 40px;
 }
 footer > div{
     text-align:  center;
